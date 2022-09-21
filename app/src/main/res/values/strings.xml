@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LawBeatApplication</string>
+    <string name="app_name_title">LawBeat</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="login">Login</string>
+    <string name="email_address">email_address</string>
+    <string name="password">password</string>
+    <string name="forgot_password">forgot_password</string>
+    <string name="new_member_signup">New Member? Signup</string>
+    <string name="news_updates">NEWS UPDATES</string>
+    <string name="top_stories">TOP STORIES</string>
+    <string name="columns">COLUMNS</string>
+    <string name="lawbeat">LAWBEAT</string>
+    <string name="from_the_legal_corridors">FROM THE LEGAL CORRIDORS</string>
+    <string name="bar_speaks">BAR SPEAKS</string>
+    <string name="articles">ARTICLES</string>
+    <string name="event_corner">EVENT CORNER</string>
+    <string name="videos">VIDEOS</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
